@@ -1,14 +1,13 @@
-## Introdução :
-Wassup Inovadores, eu sou o Valey ! <br> 
-Este repositório foi criado para darem os primeiros passos na linguagem de programação `Python` ! Para além de conter conteúdos básicos sobre `Python` , este repositório também tem exercícios para serem feitos e para voçês poderem treinar livremente . <br>
+# Resumos Python :
+Repositório criado para darem os primeiros passos na linguagem de programação `Python` ! Para além de conter conteúdos básicos sobre `Python` , este repositório também tem exercícios para serem feitos e para voçês poderem treinar livremente . <br>
 Para além de tudo isto que acabei de dizer, voçê também terá acesso a :
  - Comunidade do Discord (Em Breve)
  - Ajuda em Exercícios (no Discord)
 
-# Índice :
+## Índice :
 ...
 
-# Como Usar este Repositório :
+## Como Usar este Repositório :
 ...
 
 ## Suporte :
