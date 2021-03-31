@@ -8,12 +8,13 @@ Um guia básico de `Python` , juntamente com alguns exercícios para serem feito
 
 ---
 
-## 🏆 Como Usar este Repositório :
+## 🏆 Maneira Para Aprender :
 ```python
-...
+def ciclo_vida(vivo, pessoa):
+    while vivo == True :
+        pessoa.DrinkCoffe()
+        pessoa.Study()
+        pessoa.Practice()
+        pessoa.DoNetworking()
+        pessoa.Sleep()
 ```
-
---- 
-## 🌐 Links e Outros :
-Muito Obrigado por visualizar este repositório e se quiser enviar uma ajudinha para o criador (Roberto Valente), sinta-se livre para :
- - Fazer uma Doação : [PayPal](https://paypal.me/valey2)
