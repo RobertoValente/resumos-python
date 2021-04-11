@@ -17,7 +17,8 @@ Um guia básico de `Python` , juntamente com alguns exercícios para serem feito
 ## 🆘 Palavras-Chave Importantes :
 | Palavra-Chave | Significado |
 |     :---:     |    :---     |
-| `output` | É o que o programa irá exibir no terminal |
+| `output` | É o que o programa irá exibir no terminal . |
+| `var` | Usada para identificar onde se encontra uma variável . |
 
 ---
 
