@@ -12,6 +12,13 @@ Um guia básico de `Python` , juntamente com alguns exercícios para serem feito
     2.1. **Tipos de Dados : _(Inteiro, String, Booleano)_** <br>
     2.2. **Estrutura de Dados : _(Listas, Dicionários, etc.)_** <br>
 
+---
+
+## 🆘 Palavras-Chave Importantes :
+| Palavra-Chave | Significado |
+|     :---:     |    :---     |
+| `output` | É o que o programa irá exibir no terminal . |
+| `var` | Usada para identificar onde se encontra uma variável . |
 
 ---
 
