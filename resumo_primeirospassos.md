@@ -20,7 +20,7 @@ Neste exemplo, o output do programa será : *Qual o seu nome ?* , e irá pedir q
 <br>
 <br>
 
-- Iremos usar `# texto` **ou** `""" texto """` , para adicionar-mos algumas notações importantes no código , sem o programa exibir-las no output :
+- Iremos usar `# texto` **ou** `""" texto """` , para poder adicionar algumas informações/notações importantes no código , sem o programa exibir-las no output :
 ```python
 # print("Esta mensagem não irá aparecer no Output !")
 # Esta mensagem também não irá aparecer no Output !
