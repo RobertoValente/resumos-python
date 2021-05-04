@@ -22,8 +22,6 @@
 |         `int`       | Tipo Inteiro |
 |         `str`       | Tipo String |
 |         `float`     | Tipo String |
-|         `*`         | Multiplicar |
-|         `/`         | Dividir |
 
 # Palavras-Chave :
 | Palavra | Significado |
