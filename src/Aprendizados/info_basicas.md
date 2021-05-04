@@ -1,6 +1,6 @@
 # Tipos de Operadores e Outros :
 | Símbolo da Operação | Função/Significado |
-| -------- | -------- |
+| :--: | :-- |
 |         `+`         | Somar |
 |         `-`         | Subtrair |
 |         `*`         | Multiplicar |
@@ -18,7 +18,7 @@
 
 # Tipos de Variáveis e Outros :
 |   Tipo de Variável  | Significado |
-| -------- | -------- |
+| :--: | :-- |
 |         `int`       | Tipo Inteiro |
 |         `str`       | Tipo String |
 |         `float`     | Tipo String |
@@ -27,7 +27,7 @@
 
 # Palavras-Chave :
 | Palavra | Significado |
-| --------- | --------- |
+| :--: | :-- |
 | `var` | Variável |
 | `class` | Criação de uma Classe |
 | `print` | Executar algo na tela |
