@@ -5,9 +5,10 @@ Um guia básico de `Python` , juntamente com alguns exercícios para serem feito
 
 ## 📋 Índice :
 1. **Começando Pelo Ínicio** <br>
-    1.1. **Primeiros Passos** <br>
-    1.2. **Tipos de Variáveis** <br>
-    1.3. **Tipos de Operadores** <br>
+    1.1. [**Informações Básicas**](src/Aprendizados/info_basicas.md) <br>
+    1.2. [**Primeiros Passos**](src/Aprendizados/resumo_primeirospassos.md) <br>
+    1.3. [**Tipos de Variáveis**](src/Aprendizados/resumo_tiposvariaveis.md) <br>
+    1.4. **Tipos de Operadores** <br>
 2. **A tua jornada já começou** <br>
     2.1. **Tipos de Dados : _(Inteiro, String, Booleano)_** <br>
     2.2. **Estrutura de Dados : _(Listas, Dicionários, etc.)_** <br>
