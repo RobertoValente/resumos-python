@@ -27,4 +27,4 @@ print(type(var_float)) # Irá retornar o tipo da variável que está dentro de (
 ---
 
 ## 🆘 Dica Fundamental :
-- Não estude apenas , pratique também ou veja esta tabela e tire suas próprias conclusões [Tabela](https://images.app.goo.gl/pnpZWhSfrrYvaxry8)
+- Não estude apenas , pratique também ou veja esta tabela e tire suas próprias conclusões -> [Tabela](https://images.app.goo.gl/pnpZWhSfrrYvaxry8)
