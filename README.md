@@ -1,5 +1,5 @@
 # 📚 Resumos Python :
-Um guia básico de `Python` , juntamente com alguns exercícios para serem feitos e em breve uma comunidade para as suas dúvidas serem esclarecidas !
+Um guia básico de `Python`, juntamente com alguns exercícios para serem feitos e em breve uma comunidade para as suas dúvidas serem esclarecidas !
 
 ---
 
