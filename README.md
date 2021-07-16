@@ -1,25 +1,13 @@
 # 📚 Resumos Python :
-Um guia básico de `Python`, juntamente com alguns exercícios para serem feitos e em breve uma comunidade para as suas dúvidas serem esclarecidas !
+Repositório com : Diversos Exercícios de Python, Links de Cursos/Video Aulas/etc. e Comunidade de Discord Pública . Isto tudo para auxiliar você neste mundo repleto de Sucesso e Bugs ``(coisa que é muito comum)`` !
 
 ---
 
 ## 📋 Índice :
-1. **Começando Pelo Ínicio** <br>
-    1.1. [**Informações Básicas**](src/Aprendizados/info_basicas.md) <br>
-    1.2. [**Primeiros Passos**](src/Aprendizados/resumo_primeirospassos.md) <br>
-    1.3. [**Tipos de Variáveis**](src/Aprendizados/resumo_tiposvariaveis.md) <br>
-    1.4. **Tipos de Operadores** <br>
-2. **A tua jornada já começou** <br>
-    2.1. **Tipos de Dados : _(Inteiro, String, Booleano)_** <br>
-    2.2. **Estrutura de Dados : _(Listas, Dicionários, etc.)_** <br>
-
----
-
-## 🆘 Palavras-Chave Importantes :
-| Palavra-Chave | Significado |
-|     :---:     |    :---     |
-| `output` | É o que o programa irá exibir no terminal . |
-| `var` | Usada para identificar onde se encontra uma variável . |
+1. [**Comunidade de Discord**](src/Links de Apoio/discord.md) <br>
+2. [**Links de Apoio**](src/Links de Apoio/links.md) <br>
+3. **Lista de Exercícios e Soluções** <br>
+    3.1. **[Meu Nome e Idade](src/Lista_Exercícios/Ex1/QUESTIONARIO1.md) + [Soluções](src/Lista_Exercícios/Ex1/SOLUCAO1.md)** <br>
 
 ---
 
