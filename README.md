@@ -4,8 +4,8 @@ Repositório com : Diversos Exercícios de Python, Links de Cursos/Video Aulas/e
 ---
 
 ## 📋 Índice :
-1. [**Comunidade de Discord**](src/Links de Apoio/discord.md) <br>
-2. [**Links de Apoio**](src/Links de Apoio/links.md) <br>
+1. [**Comunidade de Discord**](src/Links_de_Apoio/discord.md) <br>
+2. [**Links de Apoio**](src/Links_de_Apoio/links.md) <br>
 3. **Lista de Exercícios e Soluções** <br>
     3.1. **[Meu Nome e Idade](src/Lista_Exercícios/Ex1/QUESTIONARIO1.md) + [Soluções](src/Lista_Exercícios/Ex1/SOLUCAO1.md)** <br>
 
